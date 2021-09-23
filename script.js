@@ -25,4 +25,18 @@ console.log(Math.PI);
 // Question 5
 let randomNumber = Math.floor(Math.random() * 4)
 
-// Bonus
+// Bonus 6
+console.log(" Let It Go!".toUpperCase().repeat(2).trim())
+
+// Bonus 7a
+let reindeers = "Reindeers are better than people."
+
+// Bonus 7b
+console.log(reindeers.replace(/\s/g, "_"))
+
+// Bonus 8
+console.log(Math.sqrt(2))
+
+//  Bonus 9
+let newRandomNumber = Math.floor(Math.random() * 17) + 7
+console.log(newRandomNumber)
